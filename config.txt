@@ -1,6 +1,6 @@
 owner=520011331189866498
-prefix=Y
-game=Type | Yplay
+prefix=Koty
+game=Type | Kotyplay
 stayinchannel=true
 songinstatus=false
 token=NTQwODQ0MTU4ODE5MjM3ODk5.DzWz5A.lhqzL3XNHSgidwhCXSnVYqLWDf0
